@@ -22,6 +22,6 @@ Repo này chứa các bài tập của môn CS114.L11.KHCL do thầy Nguyễn Đ
 - [Data Structures.ipynb](WeCode/Data_Structures.ipynb)
 
 ### Project (Banana Detection)
-- [Banana_Detection_Old.ipynb](Banana Detection Project/Banana_Detection_Old.ipynb)
-- [BannanaDetectionTrainedModel.ipynb](Banana Detection Project/BannanaDetectionTrainedModel.ipynb)
-- [Mô_tả_đồ_án_cuối_kỳ.ipynb](Banana Detection Project/Mô_tả_đồ_án_cuối_kỳ.ipynb)
+- [Banana_Detection_Old.ipynb](Banana_Detection_Project/Banana_Detection_Old.ipynb)
+- [BannanaDetectionTrainedModel.ipynb](Banana_Detection_Project/BannanaDetectionTrainedModel.ipynb)
+- [Mô_tả_đồ_án_cuối_kỳ.ipynb](Banana_Detection_Project/Mô_tả_đồ_án_cuối_kỳ.ipynb)

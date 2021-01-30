@@ -31,5 +31,5 @@ Repo này chứa các bài tập của môn CS114.L11.KHCL do thầy Nguyễn Đ
 - [Doc báo cáo](Banana%20Detection%20Project/File%20báo%20cáo/Báo%20cáo%20cuối%20kỳ.pdf)
 
 ### App
-- [Requirements]((Banana%20Detection%20Project/App/requirements.txt)
+- [Requirements](Banana%20Detection%20Project/App/requirements.txt)
 - [File chạy app](Banana%20Detection%20Project/App/WinApp.py)

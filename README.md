@@ -20,3 +20,8 @@ Repo này chứa các bài tập của môn CS114.L11.KHCL do thầy Nguyễn Đ
 ### WeCode (bao gồm những file notebook bài tập trên wecode)
 - [CS114_L11 Python Pointers.ipynb](WeCode/CS114_L11_Python_Pointers.ipynb)
 - [Data Structures.ipynb](WeCode/Data_Structures.ipynb)
+
+### Project (Banana Detection)
+- [Banana_Detection_Old.ipynb](Banana Detection/Banana_Detection_Old.ipynb)
+- [BannanaDetectionTrainedModel.ipynb](Banana Detection/BannanaDetectionTrainedModel.ipynb)
+- [Mô_tả_đồ_án_cuối_kỳ.ipynb](Banana Detection/Mô_tả_đồ_án_cuối_kỳ.ipynb)

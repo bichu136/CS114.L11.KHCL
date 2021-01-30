@@ -1,0 +1,13 @@
+numpy
+scipy
+Pillow
+cython
+matplotlib
+scikit-image
+tensorflow-cpu
+opencv-python
+h5py
+imgaug
+IPython[all]
+xmltodict
+skimage
